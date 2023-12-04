@@ -6,4 +6,4 @@ Los arreglos se pueden crear de varias maneras:
 
 - **Declarando una variable y asignando un valor inicial:**
 
-> let miArreglo = [1, 2, 3];
+    > let miArreglo = [1, 2, 3];
