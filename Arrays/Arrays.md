@@ -22,3 +22,8 @@ Los arreglos se pueden crear de varias maneras:
 Una vez creado un arreglo, se puede acceder a sus elementos utilizando índices numéricos. Los índices de los arreglos en JavaScript comienzan en **0**, por lo que el primer elemento tiene el índice **0**, el segundo elemento tiene el índice **1**, etc.
 
 Por ejemplo:
+
+    > let miArreglo = [1, 2, 3];
+    > console.log(miArreglo[0]); // 1
+    > console.log(miArreglo[1]); // 2
+    > console.log(miArreglo[2]); // 3
