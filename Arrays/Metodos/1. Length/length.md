@@ -12,12 +12,13 @@ Por ejemplo:
 
     > let miArreglo = [1, 2, 3];
 
-    `console.log(miArreglo.length); // 3`
+    > console.log(miArreglo.length); // 3
 
+El método **`length`** también se puede utilizar para establecer el número de elementos que contiene el arreglo. Sin embargo, esto puede provocar que se pierdan datos.
 
-**2- Usando la función Array():**
+La sintaxis para establecer el número de elementos del arreglo es la siguiente:
 
-    > let miArreglo = Array(1, 2, 3);
+    > arreglo.length = nuevoTamaño;
 
 **3- Usando la función spread():**
 
