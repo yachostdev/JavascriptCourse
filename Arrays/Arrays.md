@@ -4,6 +4,14 @@ En JavaScript, un arreglo es una variable que se utiliza para almacenar una cole
 
 Los arreglos se pueden crear de varias maneras:
 
-- **1- Declarando una variable y asignando un valor inicial:**
+**1- Declarando una variable y asignando un valor inicial:**
 
     > let miArreglo = [1, 2, 3];
+
+**2- Usando la función Array():**
+
+    > let miArreglo = Array(1, 2, 3);
+
+**3- Usando la función spread():**
+
+    > let miArreglo = [...[1, 2, 3]];
