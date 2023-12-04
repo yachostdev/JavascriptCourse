@@ -1,24 +1,16 @@
-# Método length()
+# Arrays
 
-El método **`length`** es un método de los arreglos en JavaScript. Este método devuelve el número de elementos que contiene el arreglo.
-    
-La sintaxis del método **`length`** es la siguiente:
+El método length es un método de los arreglos en JavaScript. Este método devuelve el número de elementos que contiene el arreglo.
+
+La sintaxis del método length es la siguiente:
 
 **1- Declarando una variable y asignando un valor inicial:**
 
-    > arreglo.length;
-
-Por ejemplo:
-
     > let miArreglo = [1, 2, 3];
 
-    > console.log(miArreglo.length); // 3
+**2- Usando la función Array():**
 
-El método **`length`** también se puede utilizar para establecer el número de elementos que contiene el arreglo. Sin embargo, esto puede provocar que se pierdan datos.
-
-La sintaxis para establecer el número de elementos del arreglo es la siguiente:
-
-    > arreglo.length = nuevoTamaño;
+    > let miArreglo = Array(1, 2, 3);
 
 **3- Usando la función spread():**
 
@@ -48,3 +40,4 @@ Aquí hay algunos ejemplos de cómo se pueden utilizar los arreglos en JavaScrip
 
 
 Los arreglos son una parte fundamental de JavaScript. Es importante comprender cómo funcionan los arreglos para poder utilizarlos de manera efectiva en sus aplicaciones.
+
