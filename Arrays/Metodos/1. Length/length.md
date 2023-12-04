@@ -1,4 +1,4 @@
-# Arrays
+# Length()
 
 El método **`length`** es un método de los arreglos en JavaScript. Este método devuelve el número de elementos que contiene el arreglo.
 
@@ -28,7 +28,7 @@ Por ejemplo:
 
 Aquí hay algunos ejemplos de cómo se puede utilizar el método length en JavaScript:
 
-**- Para determinar el número de elementos que contiene un arreglo:**
+- Para determinar el número de elementos que contiene un arreglo:
 
 `let miArreglo = Array(1, 2, 3);`
 
