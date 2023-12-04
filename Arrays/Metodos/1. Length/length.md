@@ -29,3 +29,5 @@ Por ejemplo:
 ## Ejemplos de uso
 
 Aquí hay algunos ejemplos de cómo se puede utilizar el método **`length`** en JavaScript:
+
+- **Para determinar el número de elementos que contiene un arreglo:**

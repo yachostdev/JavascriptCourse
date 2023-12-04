@@ -41,4 +41,3 @@ Aquí hay algunos ejemplos de cómo se pueden utilizar los arreglos en JavaScrip
 
 Los arreglos son una parte fundamental de JavaScript. Es importante comprender cómo funcionan los arreglos para poder utilizarlos de manera efectiva en sus aplicaciones.
 
-- **Almacenar datos:**
