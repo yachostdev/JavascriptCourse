@@ -12,9 +12,9 @@ Por ejemplo:
 
     > let miArreglo = [1, 2, 3];
 
-    > console.log(miArreglo.length); // 3
+    `console.log(miArreglo.length); // 3`
 
-    
+
 **2- Usando la función Array():**
 
     > let miArreglo = Array(1, 2, 3);
