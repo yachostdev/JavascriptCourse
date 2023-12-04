@@ -30,13 +30,13 @@ Los arreglos son una herramienta muy útil en JavaScript. Se pueden utilizar par
 
 Aquí hay algunos ejemplos de cómo se pueden utilizar los arreglos en JavaScript:
 
--**Almacenar datos:** Los arreglos se pueden utilizar para almacenar datos, como nombres, números, direcciones, etc. Por ejemplo, se podría utilizar un arreglo para almacenar los nombres de los estudiantes en una clase.
+- **Almacenar datos:** Los arreglos se pueden utilizar para almacenar datos, como nombres, números, direcciones, etc. Por ejemplo, se podría utilizar un arreglo para almacenar los nombres de los estudiantes en una clase.
 
--**Iterar sobre datos:** Los arreglos se pueden utilizar para iterar sobre datos. Por ejemplo, se podría utilizar un arreglo para iterar sobre los elementos de una página web.
+- **Iterar sobre datos:** Los arreglos se pueden utilizar para iterar sobre datos. Por ejemplo, se podría utilizar un arreglo para iterar sobre los elementos de una página web.
 
--**Filtrar datos:** Los arreglos se pueden utilizar para filtrar datos. Por ejemplo, se podría utilizar un arreglo para filtrar los números pares de una lista.
+- **Filtrar datos:** Los arreglos se pueden utilizar para filtrar datos. Por ejemplo, se podría utilizar un arreglo para filtrar los números pares de una lista.
 
--**Ordenar datos:** Los arreglos se pueden utilizar para ordenar datos. Por ejemplo, se podría utilizar un arreglo para ordenar los nombres de los estudiantes en una clase alfabéticamente.
+- **Ordenar datos:** Los arreglos se pueden utilizar para ordenar datos. Por ejemplo, se podría utilizar un arreglo para ordenar los nombres de los estudiantes en una clase alfabéticamente.
 
 
 Los arreglos son una parte fundamental de JavaScript. Es importante comprender cómo funcionan los arreglos para poder utilizarlos de manera efectiva en sus aplicaciones.
