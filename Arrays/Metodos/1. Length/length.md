@@ -36,7 +36,7 @@ console.log(miArreglo); // [1, 2]
 
 Aquí hay algunos ejemplos de cómo se puede utilizar el método **`length`** en JavaScript:
 
-* Para determinar el número de elementos que contiene un arreglo:
+* **Para determinar el número de elementos que contiene un arreglo:**
 
 ```javascript
 let miArreglo = [1, 2, 3];
