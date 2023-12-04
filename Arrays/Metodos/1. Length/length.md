@@ -5,7 +5,7 @@ El método **`length`** es un método de los arreglos en JavaScript. Este métod
 La sintaxis del método **`length`** es la siguiente:
 
 ```javascript
-let array = ["hola"];
+arreglo.length
 ```
 
 Por ejemplo:
@@ -45,3 +45,35 @@ const cantidadElementos = miArreglo.length;
 
 console.log(cantidadElementos); // 3
 ```
+
+* **Para iterar sobre todos los elementos de un arreglo:**
+
+```javascript
+let miArreglo = [1, 2, 3];
+
+for (let i = 0; i < miArreglo.length; i++) {
+  console.log(miArreglo[i]);
+}
+```
+
+* **Para verificar si un arreglo está vacío:**
+
+```javascript
+let miArreglo = [];
+
+if (miArreglo.length === 0) {
+  console.log("El arreglo está vacío");
+}
+```
+
+* **Para eliminar todos los elementos de un arreglo:**
+
+```javascript
+let miArreglo = [1, 2, 3];
+
+miArreglo.length = 0;
+
+console.log(miArreglo); // []
+```
+
+El método **`length`** es una herramienta muy útil para trabajar con arreglos en JavaScript.
