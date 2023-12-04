@@ -1,8 +1,8 @@
 # Método length()
 
-El método length es un método de los arreglos en JavaScript. Este método devuelve el número de elementos que contiene el arreglo.
+El método `**length**` es un método de los arreglos en JavaScript. Este método devuelve el número de elementos que contiene el arreglo.
 
-Los arreglos se pueden crear de varias maneras:
+La sintaxis del método length es la siguiente:
 
 **1- Declarando una variable y asignando un valor inicial:**
 
