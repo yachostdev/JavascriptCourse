@@ -21,10 +21,10 @@ Una vez creado un arreglo, se puede acceder a sus elementos utilizando índices 
 
 Por ejemplo:
 
-    > let miArreglo = [1, 2, 3];
-    > console.log(miArreglo[0]); // 1
-    > console.log(miArreglo[1]); // 2
-    > console.log(miArreglo[2]); // 3
+    > `let miArreglo = [1, 2, 3];`
+    > `console.log(miArreglo[0]);` // 1
+    > `console.log(miArreglo[1]);` // 2
+    > `console.log(miArreglo[2]);` // 3
 
 Los arreglos son una herramienta muy útil en JavaScript. Se pueden utilizar para almacenar una gran variedad de datos y para realizar una variedad de tareas.
 
