@@ -18,7 +18,17 @@ La sintaxis para establecer el número de elementos del arreglo es la siguiente:
 
     > arreglo.length = nuevoTamaño;
 
-**2- Usando la función Array():**
+Por ejemplo:
+
+    > let miArreglo = [1, 2, 3];
+
+    > miArreglo.length = 2; // Se eliminan los elementos 2 y 3 del arreglo
+
+    > console.log(miArreglo); // [1, 2]
+
+Aquí hay algunos ejemplos de cómo se puede utilizar el método length en JavaScript:
+
+**- Para determinar el número de elementos que contiene un arreglo:**
 
     > let miArreglo = Array(1, 2, 3);
 
