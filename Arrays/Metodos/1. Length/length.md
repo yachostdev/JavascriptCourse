@@ -30,7 +30,7 @@ Aquí hay algunos ejemplos de cómo se puede utilizar el método length en JavaS
 
 **- Para determinar el número de elementos que contiene un arreglo:**
 
-    > let miArreglo = Array(1, 2, 3);
+    `let miArreglo = Array(1, 2, 3);`
 
 **3- Usando la función spread():**
 
