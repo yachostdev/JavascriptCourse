@@ -6,7 +6,9 @@ Los arreglos se pueden crear de varias maneras:
 
 **1- Declarando una variable y asignando un valor inicial:**
 
-    > let miArreglo = [1, 2, 3];
+```javascript
+let miArreglo = [1, 2, 3];
+```
 
 **2- Usando la función Array():**
 
