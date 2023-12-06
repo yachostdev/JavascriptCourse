@@ -28,6 +28,7 @@ Por ejemplo:
 
 ```javascript
 let miArreglo = [1, 2, 3];
+
 console.log(miArreglo[0]); // 1
 console.log(miArreglo[1]); // 2
 console.log(miArreglo[2]); // 3
