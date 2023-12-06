@@ -1,6 +1,6 @@
 ## Problema 1 - Lista de compras
 
-1. Crea un array llamado "listaDeCompras" que contenga 10 productos (ej: huevos, leche, pan, etc). No inicialices los elementos.
+1. Crea un array llamado "listaDeCompras" que contenga 10 productos (ej: huevos, leche, pan, etc).
 2. Utiliza un bucle for para insertar 10 elementos, asignando valores de forma programática.
 3. Imprime en consola el número total de elementos que tiene el array utilizando la propiedad **`length`** .
 4. Comprueba que efectivamente tiene 10 elementos accediendo directamente a alguno de los índices entre 0 y 9.
@@ -33,3 +33,22 @@ Desarrolla una agenda telefónica básica que cumpla los siguientes requisitos:
 * Almacenar información en arrays
 * Detener bucles en base a condiciones
 * Aplicar length para simplify recorrer arrays
+
+
+## Problema 3 - Carrito de compras básico
+
+### Problema:
+Crea una aplicación que sirva como carrito de compras básico para una tienda de vinos.
+
+1. Define un array "carritoCompras" que inicialmente debe estar vacío.
+2. Agrega una función "agregarProducto" que reciba el nombre y el precio del producto, lo almacene como objeto en el array "carritoCompras".
+3. Invoca esta función al menos 5 veces para agregar 5 productos al azar (inventa sus nombres y precios).
+4. Cada vez que se agregue un producto, muestra el mensaje "Producto agregado!" y la cantidad de productos en el carro, leyendo la propiedad **`length`**
+5. Al final, utiliza **`length`** dentro de un ciclo para mostrar el nombre y el precio de cada producto en el carrito.
+
+### Objetivo:
+
+* Reforzar los conceptos de arrays, funciones y objetos
+* Manipular arrays invocando funciones
+* Usar length para saber el total de productos
+* Recorrer arrays con length en los ciclos
