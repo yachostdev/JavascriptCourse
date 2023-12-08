@@ -18,3 +18,26 @@ function saludar(nombre) {
 }
 ```
 
+Para ejecutar o invocar esta función se escribe el nombre seguido de paréntesis:
+
+```javascript
+saludar("Juan"); // Imprime "Hola Juan"
+```
+
+Dentro de una función se pueden utilizar los parámetros para operar con los datos que se pasan a la función. Por ejemplo:
+
+```javascript
+function suma(a, b) {
+  return a + b; 
+}
+
+let resultado = suma(2, 3); // resultado = 5
+```
+
+Algunas cosas importantes de las funciones:
+
+* Se pueden reutilizar invocándolas desde cualquier parte del código.
+
+* Se pueden organizar en el código para hacerlo más legible.
+
+* Permiten encapsular código en tareas específicas.
