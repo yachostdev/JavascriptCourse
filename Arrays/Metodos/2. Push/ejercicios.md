@@ -15,3 +15,21 @@ Crea un sistema de inventario para una tienda de abarrotes que permita:
 * Quitar elementos con **`pop()`**
 * Recorrer y mostrar los elementos del array resultado.
 * Manipular datos en un inventario.
+
+## Problema 2 - Tareas
+
+### Problema:
+Desarrolla un sistema básico para una lista de tareas pendientes que permita:
+
+1. Definir un array "tareasPendientes" inicialmente vacío
+2. Agregar 3 tareas usando **`push()`**.
+3. Marcar la primera tarea como realizada con **`shift()`**
+4. Agregar 1 tarea más al final de la lista
+5. Mostrar las tareas pendientes utilizando un ciclo for of
+
+### Objetivo:
+
+* Manipular arrays usando **`push()`** y **`shift()`**
+* Agregar y eliminar elementos
+* Iterar un array con for...of
+* Poner en práctica conceptos básicos de arrays
