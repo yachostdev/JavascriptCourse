@@ -50,9 +50,7 @@ Luego pasa a la siguiente:
 5. La convierte a blanco y negro (la procesa).
 6. Agrega esta copia al array resultado.
 
-Y así con cada elemento, aplicando siempre la misma transformación o procesamiento que definamos.
-
-Al final obtienes un nuevo array con las versiones procesadas de cada elemento. Esta es la idea central detrás de **`map()`**.
+Y así con cada elemento, aplicando siempre la misma transformación o procesamiento que definamos. Al final obtienes un nuevo array con las versiones procesadas de cada elemento. Esta es la idea central detrás de **`map()`**.
 
 A continuación un ejemplo súper sencillo del uso de **`map()`** en arrays:
 
